@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  update-badges:
     runs-on: ubuntu-latest
     steps:
       - name: Orcs Have Issues Profile Badges
