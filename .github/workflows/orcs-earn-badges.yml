@@ -10,7 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Orcs Have Issues Profile Badges
-        uses: MikeAmputer/orcs-earn-badges@v1
-        with:
-          token: ${{ secrets.REPOSITORY_TOKEN }}
-            
+        uses: MikeAmputer/orcs-earn-badges@v1            
