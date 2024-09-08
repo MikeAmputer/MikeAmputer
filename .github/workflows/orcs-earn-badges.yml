@@ -12,5 +12,5 @@ jobs:
       - name: Orcs Have Issues Profile Badges
         uses: MikeAmputer/orcs-earn-badges@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.REPOSITORY_TOKEN }}
             
