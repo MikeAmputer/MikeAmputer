@@ -1,0 +1,14 @@
+name: Orcs Have Issues Badges
+
+on:
+  schedule:
+    - cron: '30 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Orcs Have Issues Profile Badges
+        uses: MikeAmputer/orcs-earn-badges@v1
+            
