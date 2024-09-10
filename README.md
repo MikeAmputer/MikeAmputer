@@ -1,4 +1,5 @@
-Check out my [orcs-have-issues](https://github.com/MikeAmputer/orcs-have-issues) badges:
+___
+### Check out my [orcs-have-issues](https://github.com/MikeAmputer/orcs-have-issues) badges:
 
 <!-- orcs-earn-badges -->
 <table>
@@ -16,3 +17,4 @@ Check out my [orcs-have-issues](https://github.com/MikeAmputer/orcs-have-issues)
 </table>
 <!-- orcs-earn-badges -->
 
+___
