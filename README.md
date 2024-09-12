@@ -6,7 +6,7 @@ ___
   <tr>
     <td width="90">
       <p align="center">
-        <a href="https://github.com/MikeAmputer/orcs-have-issues/issues/15"><img src="https://github.com/MikeAmputer/orcs-earn-badges/blob/master/img/character/orc-1.png" alt="Level 1, Orc" title="Level 1, Orc" width="64"></a>
+        <a href="https://github.com/MikeAmputer/orcs-have-issues/issues/15"><img src="https://github.com/MikeAmputer/orcs-earn-badges/blob/master/img/character/orc-2.png" alt="Level 2, Orc" title="Level 2, Orc" width="64"></a>
       </p>
     </td>
     <td>
