@@ -12,6 +12,7 @@ ___
     <td>
       <img src="https://github.com/MikeAmputer/orcs-earn-badges/blob/master/img/newcomer.png" alt="Newcomer" title="Create a character issue" width="64">
       <img src="https://github.com/MikeAmputer/orcs-earn-badges/blob/master/img/craft-bronze.png" alt="Craft Bronze" title="Craft your first wargear" width="64">
+      <img src="https://github.com/MikeAmputer/orcs-earn-badges/blob/master/img/spider-slayer-bronze.png" alt="Spider Slayer Bronze" title="Slay 10 spiders" width="64">
       <img src="https://github.com/MikeAmputer/orcs-earn-badges/blob/master/img/clean-issue.png" alt="Clean Issue" title="Keep your character issue clean" width="64">
     </td>
   </tr>
